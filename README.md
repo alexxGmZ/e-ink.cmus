@@ -1,6 +1,9 @@
 # e-ink.cmus
 Grayscale colorscheme for cmus music player
 
+![cmus-e-ink](https://github.com/user-attachments/assets/53f35517-99dd-4a0a-88c9-6c21fd7110d1)
+![cmus-e-ink-dark](https://github.com/user-attachments/assets/8a5481e6-38df-4332-90ab-7c3d6b67409f)
+
 &nbsp;
 
 ## Installation
