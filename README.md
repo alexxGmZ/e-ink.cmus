@@ -9,7 +9,17 @@ Grayscale colorscheme for cmus music player
 
 ## Installation
 
-Copy the `*.theme` files to `$HOME/.config/cmus` directory.
+1. Clone the repository or download the raw `*.theme` file/s.
+2. Copy the `*.theme` file/s to `$HOME/.config/cmus` directory.
+3. Open or restart `cmus`.
+4. Select the colorscheme.
+
+```
+:colorscheme e-ink-light
+:colorscheme e-ink-light-transparent
+:colorscheme e-ink-dark
+:colorscheme e-ink-dark-transparent
+```
 
 &nbsp;
 
