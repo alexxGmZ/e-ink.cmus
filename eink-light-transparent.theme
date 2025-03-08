@@ -1,0 +1,40 @@
+#333333 → 236
+#474747 → 238
+#4A4A4A → 239
+#545454 → 240
+#5E5E5E → 241
+#686868 → 242
+#727272 → 243
+#7C7C7C → 244
+#868686 → 245
+#909090 → 246
+#9A9A9A → 247
+#A4A4A4 → 248
+#AEAEAE → 249
+#B8B8B8 → 250
+#C2C2C2 → 251
+#CCCCCC → 252
+
+set color_cmdline_bg=default
+set color_cmdline_fg=236
+set color_error=238
+set color_info=240
+set color_separator=241
+set color_statusline_bg=default
+set color_statusline_fg=236
+set color_titleline_bg=247
+set color_titleline_fg=236
+set color_win_bg=default
+set color_win_cur=236
+set color_win_cur_sel_bg=241
+set color_win_cur_sel_fg=252
+set color_win_dir=238
+set color_win_fg=243
+set color_win_inactive_cur_sel_bg=241
+set color_win_inactive_cur_sel_fg=246
+set color_win_inactive_sel_bg=242
+set color_win_inactive_sel_fg=247
+set color_win_sel_bg=243
+set color_win_sel_fg=250
+set color_win_title_bg=default
+set color_win_title_fg=236
