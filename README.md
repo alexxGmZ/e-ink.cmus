@@ -1,4 +1,5 @@
 # e-ink.cmus
+
 Grayscale colorscheme for cmus music player
 
 ![cmus-e-ink](https://github.com/user-attachments/assets/53f35517-99dd-4a0a-88c9-6c21fd7110d1)
@@ -9,6 +10,29 @@ Grayscale colorscheme for cmus music player
 ## Installation
 
 Copy the `*.theme` files to `$HOME/.config/cmus` directory.
+
+&nbsp;
+
+## Hex to 256-color Guide
+
+```
+#333333 → 236
+#474747 → 238
+#4A4A4A → 239
+#545454 → 240
+#5E5E5E → 241
+#686868 → 242
+#727272 → 243
+#7C7C7C → 244
+#868686 → 245
+#909090 → 246
+#9A9A9A → 247
+#A4A4A4 → 248
+#AEAEAE → 249
+#B8B8B8 → 250
+#C2C2C2 → 251
+#CCCCCC → 252
+```
 
 &nbsp;
 
