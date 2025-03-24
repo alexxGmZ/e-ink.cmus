@@ -50,3 +50,4 @@ Grayscale colorscheme for cmus music player
 
 * [NeoVim](https://github.com/alexxGmZ/e-ink.cmus)
 * [Kitty](https://github.com/alexxGmZ/e-ink.kitty)
+* [termux](https://github.com/alexxGmZ/e-ink.termux)
