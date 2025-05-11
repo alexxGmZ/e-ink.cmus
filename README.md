@@ -52,3 +52,4 @@ Grayscale colorscheme for cmus music player
 * [Kitty](https://github.com/alexxGmZ/e-ink.kitty)
 * [termux](https://github.com/alexxGmZ/e-ink.termux)
 * [ghostty](https://github.com/alexxGmZ/e-ink.ghostty)
+* [Sublime Text](https://github.com/alexxGmZ/e-ink.subl)
