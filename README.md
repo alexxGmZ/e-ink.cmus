@@ -48,8 +48,8 @@ Grayscale colorscheme for cmus music player
 
 ## Application Ports
 
-* [NeoVim](https://github.com/alexxGmZ/e-ink.nvim)
-* [Kitty](https://github.com/alexxGmZ/e-ink.kitty)
-* [termux](https://github.com/alexxGmZ/e-ink.termux)
-* [ghostty](https://github.com/alexxGmZ/e-ink.ghostty)
-* [Sublime Text](https://github.com/alexxGmZ/e-ink.subl)
+* [NeoVim](https://github.com/e-ink-colorscheme/e-ink.nvim)
+* [Kitty](https://github.com/e-ink-colorscheme/e-ink.kitty)
+* [termux](https://github.com/e-ink-colorscheme/e-ink.termux)
+* [ghostty](https://github.com/e-ink-colorscheme/e-ink.ghostty)
+* [Sublime Text](https://github.com/e-ink-colorscheme/e-ink.subl)
